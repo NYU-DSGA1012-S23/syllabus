@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: NYU NLU/CompSem (Spring 2023)
+description: The syllabus for the course Natural Language Understanding and Computational Semantics (DS-GA/LING-GA 1012) at New York University
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://nyu-dsga1012-s23.github.io/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/NYU-DSGA1012-S23/syllabus
