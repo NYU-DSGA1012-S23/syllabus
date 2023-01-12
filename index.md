@@ -15,23 +15,6 @@ in-context adaptation while being introduced to natural language understanding t
 syntatic and semantic parsing, and question answering. The course will culminate in an original research project 
 completed by the student in collaboration with two to three classmates.
 
-## Prerequisites
-
-The recommended prerequisite for this course is _Natural Language Processing with Representation Learning_ (DS-GA 
-1011). You will still be able to register for the course if you have not taken DS-GA 1011, but please be aware that 
-this is an advanced course. Students are expected to have seen most of the following concepts before.
-* **Calculus and Linear Algebra:** Partial derivatives, gradients, vectors, matrices, matrix multiplication, vector 
-  spaces
-* **Probability and Statistics:** Probability distributions, conditional probabilities, Bayes's theorem, linear 
-  regression
-* **Machine Learning and Data Science:** Classification, regression, features (discrete vs. continuous), optimization,
-  train/dev/test
-* **Neural Networks and Deep Learning:** Feedforward networks, the backpropagation algorithm, gradient descent
-* **Programming in Python:** Basic Python syntax, Jupyter notebooks, Python modules, object-oriented programming, 
-  code optimization
-* **Linguistics:** Morphology, phrase structure, syntax trees, compositional semantics
-* **Natural Language Processing:** Tokenization, vector semantics, language modeling
-
 ## Course Staff
 
 #### Instructor
@@ -53,5 +36,28 @@ I will be grading some of your work behind the scenes.
 
 All class sessions take place **in person** in **Room G08** of 
 [12 Waverly Place](https://goo.gl/maps/3qye7472KPRqERbi8).
-* **Lectures with Sophie:** Tuesdays, 10:00–11:40
-* **Lab with Lorena or Namrata:** Thursdays, 11:15–12:05
+
+#### Lectures
+Tuesdays, 10:00–11:40, with Sophie
+
+#### Lab
+Thursdays, 11:15–12:05, with Lorena or Namrata
+
+## Prerequisites
+
+The recommended prerequisite for this course is _Natural Language Processing with Representation Learning_ (DS-GA
+1011). You will still be able to register for the course if you have not taken DS-GA 1011, but please be aware that
+this is an advanced course. Students are expected to have seen most of the following concepts before.
+* **Calculus and Linear Algebra:** Partial derivatives, gradients, vectors, matrices, matrix multiplication, vector
+  spaces
+* **Probability and Statistics:** Probability distributions, conditional probabilities, Bayes's theorem, linear
+  regression
+* **Machine Learning and Data Science:** Features (discrete vs. continuous), optimization,
+  train/dev/test, dimensionality reduction (e.g., PCA)
+* **Programming in Python:** Basic Python syntax, Jupyter notebooks, Python modules, object-oriented programming
+* **Natural Language Processing:** Tokenization, vector semantics, language modeling
+
+Since this is a graduate-level course with students from a diverse array of backgrounds (data science, computer 
+science, linguistics, and undergrads), many students will be unfamiliar with one or more of the above topics. This 
+is okay, as long as you feel comfortable looking up anything that you don't understand or asking for help when 
+necessary. 
