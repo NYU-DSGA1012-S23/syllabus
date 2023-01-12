@@ -1,5 +1,7 @@
 ---
-title: Coursework and Grading layout: default nav_order: 2
+title: Coursework and Grading 
+layout: default 
+nav_order: 2
 ---
 
 # Coursework and Grading
