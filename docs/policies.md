@@ -1,7 +1,7 @@
 ---
 title: Course Policies
 layout: default
-nav_order: 2
+nav_order: 3
 ---
 
 # Course Policies
@@ -19,7 +19,9 @@ complete and write up the assigned work for yourself.
 
 ## Deadlines
 
-Homework assignments, reading quizzes, and the project are due by 11:59 PM on the specified due date.
+Homework assignments, reading quizzes, and the project are due by 9:30 AM on the specified due date. Late 
+submissions are subject to the following policies.
+* **Late
 
 * **Late Work:** A penalty of 1 percentage point will be applied for each hour (full or partial) that the work is late, 
 rounded to the nearest hour.
