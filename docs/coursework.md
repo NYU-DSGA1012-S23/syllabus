@@ -23,9 +23,11 @@ The composition of your final grade is as follows.
 
 ## Submissions and Deadlines
 
-Unless otherwise stated, all submission deadlines are on **Wednesdays at 9:30 AM**.[^1] Submissions and grading will 
-take place on [Gradescope](https://www.gradescope.com/), which you can access through the course's 
-[Brightspace site](https://brightspace.nyu.edu/d2l/home/244031).
+Unless otherwise stated, all submission deadlines are on **Wednesdays at 9:30 AM**.[^1] Each coursework item will be 
+released on [Brightspace](https://brightspace.nyu.edu/d2l/home/244031), and submissions and grading will take place 
+on [Gradescope](https://www.gradescope.com/) (which you can access through Brightspace). Materials and 
+further instructions for coursework items may occasionally be released on 
+[GitHub](https://github.com/NYU-DSGA1012-S23); please see Brightspace for details specific to each assignment.
 
 #### Late Submissions
 Late submissions may be accepted for some coursework items. Please consult the instructions for each coursework item 
@@ -39,8 +41,14 @@ Extensions for documented emergencies may be granted the discretion of the instr
 
 ## Project
 
-The main requirement of this course is to produce an original research project on natural language understanding 
-and/or computational semantics. As with an actual research paper in this field, the length limit will be very short (4 pages), but the expectations for clarity and thoroughness will be high. You should collaborate in groups of three or four. The project will be graded in five parts (percentages are out of the total course grade):
+The main requirement of this course is to produce an original research project on natural language understanding (NLU) 
+and/or computational semantics. As with an actual research project in this field, the final product of your project 
+will consist of an [ACL-style short paper](https://acl-org.github.io/ACLPUB/formatting.html) and an in-class oral 
+presentation of your findings. The length limit of both your paper (4 pages maximimum) and your presentation (TBD) 
+will be very short, but the expectations for clarity and thoroughness will be high.
+
+To guide you through the process of doing research in NLU, your project will be divided into five components, and 
+you will work on it in groups of three or four. 
 
 | Item                  | Due Date              | % of Project Grade | % of Final Grade | 
 |-----------------------|-----------------------|--------------------|------------------|
@@ -64,9 +72,9 @@ and/or computational semantics. As with an actual research paper in this field, 
 | **Total**                                     |             | **100** | **30%**          |
 
 ----
-[^1] If no time is give for a particular deadline, please assume that it is 9:30 AM.
+[^1]: If no time is give for a particular deadline, please assume that it is 9:30 AM.
 
-[^2] For instance, if you submit one homework assignment exactly 3 days late, the project mini-proposal exactly 6 days 
+[^2]: For instance, if you submit one homework assignment exactly 3 days late, the project mini-proposal exactly 6 days 
 late, and all other coursework items on time, then your total late penalty will be 48 percentage points of your project 
 mini-proposal 
 grade (2.4 percentage points of your final grade).

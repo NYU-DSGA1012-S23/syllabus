@@ -45,20 +45,21 @@ The recommended prerequisite for this course is _Natural Language Processing wit
 1011). You will still be able to register for the course if you have not taken DS-GA 1011, but please be aware that
 this is an advanced course. Students are expected to have seen most of the following concepts before.
 
-#### Calculus and Linear Algebra
-Partial derivatives, gradients, vectors, matrices, matrix multiplication, vector spaces
-
-#### Probability and Statistics
-Probability distributions, conditional probabilities, Bayes's theorem, linear regression
-
-#### Machine Learning and Data Science
-Features (discrete vs. continuous), optimization, train/dev/test, dimensionality reduction (e.g., PCA)
-
-#### Python Programming
-Basic syntax, Jupyter notebooks, package managers (e.g., `pip`), modules, object-oriented programming
-
-#### Natural Language Processing
-Tokenization, vector semantics, language modeling
+{: .note }
+> #### Calculus and Linear Algebra
+> Partial derivatives, gradients, vectors, matrices, matrix multiplication, vector spaces
+> 
+> #### Probability and Statistics
+> Probability distributions, conditional probabilities, Bayes's theorem, linear regression
+>
+> #### Machine Learning and Data Science
+> Features (discrete vs. continuous), optimization, train/dev/test, dimensionality reduction (e.g., PCA)
+> 
+> #### Python Programming
+> Basic syntax, Jupyter notebooks, package managers (e.g., `pip`), modules, object-oriented programming
+> 
+> #### Natural Language Processing
+> Tokenization, vector semantics, language modeling
 
 Since this is a graduate-level course with students from a diverse array of backgrounds (data science, computer 
 science, linguistics, and undergrads), many students will be unfamiliar with one or more of the above topics. This 
