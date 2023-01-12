@@ -61,14 +61,14 @@ will be very short, but the expectations for clarity and thoroughness will be hi
 To guide you through the process of doing research in NLU, your project will be divided into five components, and you
 will work on it in groups of three or four.
 
-| Item                  | Due Date              | % of Project Grade | % of Final Grade | 
-|-----------------------|-----------------------|--------------------|------------------|
-| Project Mini-Proposal | March 1               | 10%                | 5%               |
-| Project Proposal      | March 29              | 20%                | 10%              |
-| Final Paper Draft     | April 19              | 20%                | 10%              |
-| Final Paper           | May 12 (12:00 PM)     | 40%                | 20%              |
-| In-Class Presentation | May 12 (8:00–9:50 AM) | 10%                | 5%               |
-| **Total**             |                       | **100%**           | **50%**          |
+| Item                  | Due Date              | Points  | % of Final Grade | 
+|-----------------------|-----------------------|---------|------------------|
+| Project Mini-Proposal | March 1               | 50      | 5%               |
+| Project Proposal      | March 29              | 100     | 10%              |
+| Final Paper Draft     | April 19              | 100     | 10%              |
+| Final Paper           | May 12 (12:00 PM)     | 200     | 20%              |
+| In-Class Presentation | May 12 (8:00–9:50 AM) | 50      | 5%               |
+| **Total**             |                       | **500** | **50%**          |
 
 ## Homework Assignments
 
@@ -110,8 +110,8 @@ For full credit, we expect you to regularly attend and participate in lectures a
 questions and ideas on Campuswire.
 
 ----
-[^1]: If no time is give for a particular deadline, please assume that it is 9:30 AM.
+[^1]: If no time is given for a particular deadline, please assume that it is 9:30 AM.
 
 [^2]: For instance, if you submit one homework assignment exactly 3 days late, the project mini-proposal exactly 6 days late, and all other coursework items on time, then your total late penalty will be 48 percentage points of your project mini-proposal grade (2.4 percentage points of your final grade).
 
-[^3]: This general rule applies to entire assigments or other coursework items deemed as "extra credit", but it does not apply to required coursework items that happen to contain extra credit problems.
+[^3]: This general rule applies to entire assignments or other coursework items deemed as "extra credit", but it does not apply to required coursework items that happen to contain extra credit problems.
