@@ -1,6 +1,6 @@
 ---
-title: Course Policies
-layout: default
+title: Course Policies 
+layout: default 
 nav_order: 3
 ---
 
@@ -8,21 +8,65 @@ nav_order: 3
 
 ## Collaboration
 
-Collaboration is strongly encouraged, both in this course and in the profession of NLP. Please make sure you adhere to the following guidelines.
+Collaboration is strongly encouraged, both in this course and in the profession of NLP. Please make sure you adhere to
+the following guidelines.
 
-* **Homework Assignments:** You may discuss the homework assignments with anyone at any time, but you must ultimately 
-complete and write up the assigned work for yourself.
-* **Reading Quizzes:** You are strongly encouraged to discuss the readings with your peers before the reading quizzes 
-  open, but you may not discuss the readings or quiz questions with anyone while the quizzes are open.
-* **Project:** Projects should be completed in groups of three or four, which should be formed by the time the full 
-  proposal is submitted. 
+#### Homework Assignments
 
-## Deadlines
+You may discuss the homework assignments with anyone at any time, but you must ultimately complete and write up the
+assigned work for yourself.
 
-Homework assignments, reading quizzes, and the project are due by 9:30 AM on the specified due date. Late 
-submissions are subject to the following policies.
-* **Late
+#### Reading Quizzes
 
-* **Late Work:** A penalty of 1 percentage point will be applied for each hour (full or partial) that the work is late, 
-rounded to the nearest hour.
-* **Extensions:** Extensions for documented emergencies may be granted at the discretion of the instructor.
+You are strongly encouraged to discuss the readings with your peers before the reading quizzes open, but you may not
+discuss the readings or quiz questions with anyone while the quizzes are open.
+
+#### Project
+
+Projects should be completed in groups of three or four, which should be formed by the time the full proposal is
+submitted.
+
+## Academic Integrety
+
+Work you submit should be your own. Please consult the
+[GSAS Statement on Academic Integrity](https://gsas.nyu.edu/about-gsas/policies-and-procedures/gsas-statement-on-academic-integrity.html)
+for more information. Penalties for violations of academic integrity may include failure of the course, suspension from
+the University, or even expulsion.
+
+Please follow these guidelines in order to avoid plagiarism.
+
+#### Citations
+
+All text and figures from an outside source, as well as descriptions or other depictions of baseline models and
+datasets, must be cited according to ACL guidelines.
+
+#### Reusing code
+
+All code submitted for homework assignments must be your own. You may reuse code submitted by others for the final
+project, but all such reused code must be cited in your paper.
+
+Violations of this policy will result in a zero grade for the submitted work and a referral to the University for
+further investigation.
+
+## Religious Observance
+
+As a nonsectarian, inclusive institution, NYU policy permits members of any religious group to absent themselves from
+classes without penalty when required for compliance with their religious obligations. The policy and principles to be
+followed by students and faculty may be found in the
+[University Calendar Policy on Religious Holidays](https://www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/university-calendar-policy-on-religious-holidays.html)
+.
+
+## Disability Disclosure Statement
+
+Academic accommodations are available to any student with a chronic, psychological, visual, mobility, learning
+disability, or who is deaf or hard of hearing. Students should please register with the 
+[Moses Center for Student Accessibility](https://www.nyu.edu/students/communities-and-groups/student-accessibility.html).
+
+#### Email
+`mosescsd [AT] nyu [DOT] edu`
+
+#### Phone
+1-212-998-4980
+
+#### Address
+[726 Broadway, 2nd Floor](https://goo.gl/maps/EZB95VtQvcgs3Xgq8)
