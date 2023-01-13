@@ -26,7 +26,7 @@ discuss the readings or quiz questions with anyone while the quizzes are open.
 Projects should be completed in groups of three or four, which should be formed by the time the full proposal is
 submitted.
 
-## Academic Integrety
+## Academic Integrity
 
 Work you submit should be your own. Please consult the
 [GSAS Statement on Academic Integrity](https://gsas.nyu.edu/about-gsas/policies-and-procedures/gsas-statement-on-academic-integrity.html)
@@ -38,7 +38,7 @@ Please follow these guidelines in order to avoid plagiarism.
 #### Citations
 
 All text and figures from an outside source, as well as descriptions or other depictions of baseline models and
-datasets, must be cited according to ACL guidelines.
+datasets, must be cited [according to ACL guidelines](https://acl-org.github.io/ACLPUB/formatting.html).
 
 #### Reusing code
 
@@ -47,6 +47,16 @@ project, but all such reused code must be cited in your paper.
 
 Violations of this policy will result in a zero grade for the submitted work and a referral to the University for
 further investigation.
+
+## Respectful, Inclusive, and Productive Participation
+
+The field of NLP is a diverse, international community that benefits from incorporating a wide variety of different
+perspectives. All members of the class, both students and members of course staff, are expected to foster an 
+inclusive and productive environment by treating one another with civility and respect. Prejudice and discrimination in 
+any form on the basis of race, sex, age, national origin, gender identity/expression, sexual orientation, 
+disability status, socio-economic status, or other forms of identity are strictly prohibited. All students are entitled 
+to the proper usage of names and pronouns that they designate.
+
 
 ## Religious Observance
 
@@ -59,14 +69,18 @@ followed by students and faculty may be found in the
 ## Disability Disclosure Statement
 
 Academic accommodations are available to any student with a chronic, psychological, visual, mobility, learning
-disability, or who is deaf or hard of hearing. Students should please register with the 
-[Moses Center for Student Accessibility](https://www.nyu.edu/students/communities-and-groups/student-accessibility.html).
+disability, or who is deaf or hard of hearing. Students should please register with the
+[Moses Center for Student Accessibility](https://www.nyu.edu/students/communities-and-groups/student-accessibility.html)
+.
 
 #### Email
+
 `mosescsd [AT] nyu [DOT] edu`
 
 #### Phone
+
 1-212-998-4980
 
 #### Address
+
 [726 Broadway, 2nd Floor](https://goo.gl/maps/EZB95VtQvcgs3Xgq8)
