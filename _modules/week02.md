@@ -2,8 +2,11 @@
 title: Week 2, Jan. 31/Feb. 2
 ---
 
-### Understanding Understanding Through Behavior
-We will study our first NLU task, _text classification_. What does a model need to "understand" about language and the world in order to analyze sentiment? We will use text classification a running example as we learn the basic techniques of NLU.
+### Meaning as Behavior
+
+We will study our first NLU task, _text classification_. What does a model need to "understand" about language and the
+world in order to analyze sentiment? We will use text classification a running example as we learn the basic techniques
+of NLU.
 
 Topics
 : Text classification, natural language inference, sentiment analysis
@@ -13,4 +16,4 @@ Reading
 : [Pennington et al. (2014)](https://aclanthology.org/D14-1162/)
 
 Deadlines
-: **Feb. 1: HW 0 Due**{: .label .label-red }
+: **HW 0 Due**{: .label .label-red }

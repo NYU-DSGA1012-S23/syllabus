@@ -9,11 +9,9 @@ gradient descent algorithms. We will introduce common neural network architectur
 perceptron, the recurrent neural network, and the Transformer.
 
 Topics
-: Neural networks, backpropagation, stochastic gradient descent, LSTMs, Transformers
-
-Reading
-: [Mikolov et al. (2013)](https://arxiv.org/abs/1301.3781)
-: [Pennington et al. (2014)](https://aclanthology.org/D14-1162/)
+: Neural architectures (MLP, RNN, LSTM, Transformer), automatic differentiation, the PyTorch software package, 
+hyperparameter tuning
 
 Deadlines
-: **Feb. 1: HW 0 Due**{: .label .label-red }
+: **HW 1 Due**{: .label .label-red }
+: **EC 1 Due**{: .label .label-green }
