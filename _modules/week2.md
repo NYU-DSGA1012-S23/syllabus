@@ -13,4 +13,4 @@ Reading
 : [Pennington et al. (2014)](https://aclanthology.org/D14-1162/)
 
 Deadlines
-: **HW 0 Due Feb. 1**{: .label .label-red }
+: **Feb. 1: HW 0 Due**{: .label .label-red }
