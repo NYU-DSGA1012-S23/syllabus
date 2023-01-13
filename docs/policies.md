@@ -53,7 +53,7 @@ further investigation.
 The field of NLP is a diverse, international community that benefits from incorporating a wide variety of different
 perspectives. All members of the class, both students and members of course staff, are expected to foster an 
 inclusive and productive environment by treating one another with civility and respect. Prejudice and discrimination in 
-any form on the basis of race, sex, age, national origin, gender identity/expression, sexual orientation, 
+any form on the basis of race, sex, age, religion, national origin, gender identity/expression, sexual orientation, 
 disability status, socio-economic status, or other forms of identity are strictly prohibited. All students are entitled 
 to the proper usage of names and pronouns that they designate.
 
@@ -69,7 +69,7 @@ followed by students and faculty may be found in the
 ## Disability Disclosure Statement
 
 Academic accommodations are available to any student with a chronic, psychological, visual, mobility, learning
-disability, or who is deaf or hard of hearing. Students should please register with the
+disability, or who is deaf or hard of hearing. To obtain an accommodation,
 [Moses Center for Student Accessibility](https://www.nyu.edu/students/communities-and-groups/student-accessibility.html)
 .
 
