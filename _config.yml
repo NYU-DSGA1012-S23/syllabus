@@ -2,10 +2,21 @@ title: NLU/CompSem
 description: The syllabus for the course Natural Language Understanding and Computational Semantics (DS-GA/LING-GA 1012) at New York University
 theme: just-the-docs
 
-url: https://nyu-dsga1012-s23.github.io/
+url: https://nyu-dsga1012-s23.github.io/syllabus
 
 #aux_links:
 #  Template Repository: https://github.com/NYU-DSGA1012-S23/syllabus
+nav_external_links:
+  - title: Brightspace
+    url: https://brightspace.nyu.edu/
+  - title: Gradescope
+      url: https://www.gradescope.com/
+  - title: Campuswire
+      url: https://campuswire.com/p/GB6E76357/
+  - title: GitHub
+      url: https://github.com/nyu-dsga1012-s23
+
+
 collections:
   modules:
 
@@ -20,6 +31,6 @@ compress_html:
   clippings: all
   comments: all
   endings: all
-  startings: []
+  startings: [ ]
   blanklines: false
   profile: false
