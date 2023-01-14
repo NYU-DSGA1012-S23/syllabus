@@ -16,5 +16,4 @@ Reading
 a "word"
 : [Bender and Lascarides (2019)](https://www.morganclaypool.com/doi/abs/10.2200/S00935ED1V02Y201907HLT043) #18, #19, 
 #22–30, on lexical semantics
-: [Mikolov et al. (2013)](https://arxiv.org/abs/1301.3781), the original word2vec paper
-: [Pennington et al. (2014)](https://aclanthology.org/D14-1162/), the original GloVe paper (optional)
+: [Mikolov et al. (2013)](https://arxiv.org/abs/1301.3781), the word2vec models

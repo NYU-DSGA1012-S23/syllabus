@@ -7,16 +7,16 @@ url: https://nyu-dsga1012-s23.github.io/syllabus
 #aux_links:
 #  Template Repository: https://github.com/NYU-DSGA1012-S23/syllabus
 nav_external_links:
-  - title: Brightspace
+  - title: Brightspace (Gradebook)
     url: https://brightspace.nyu.edu/
     hide_icon: false
-  - title: Gradescope
+  - title: Gradescope (Feedback)
     url: https://www.gradescope.com/
     hide_icon: false
-  - title: Campuswire
+  - title: Campuswire (Discussion)
     url: https://campuswire.com/p/GB6E76357/
     hide_icon: false
-  - title: GitHub
+  - title: GitHub (Assignments)
     url: https://github.com/nyu-dsga1012-s23
     hide_icon: false
 

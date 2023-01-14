@@ -12,6 +12,12 @@ Topics
 : Neural architectures (MLP, RNN, LSTM, Transformer), automatic differentiation, the PyTorch software package, 
 hyperparameter tuning
 
+Reading
+: [Preferred Networks, Inc. (2021)](https://pytorch.org/blog/overview-of-pytorch-autograd-engine), Overview of 
+PyTorch Autograd Engine (blog post)
+: [Olah (2015)](https://colah.github.io/posts/2015-08-Understanding-LSTMs/), Understanding LSTM Networks (blog post)
+: [Alammar (2018)](https://jalammar.github.io/illustrated-transformer/), The Illustrated Transformer (blog post)
+
 Deadlines
 : **HW 1 Due**{: .label .label-red }
 : **EC 1 Due**{: .label .label-green }

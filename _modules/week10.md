@@ -11,3 +11,6 @@ explicit supervision. We will also learn various techniques that have been used 
 
 Topics
 : Interpretability, diagnostic classification
+
+Readings
+: [Rogers et al. (2020)](https://aclanthology.org/2020.tacl-1.54/), on BERTology

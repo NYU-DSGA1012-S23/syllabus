@@ -12,4 +12,5 @@ Topics
 : Pre-trained models, fine-tuning, BERT
 
 Reading
-: [Devlin et al. (2019)](https://aclanthology.org/N19-1423/), the original BERT paper
+: [Ruder (2019)](https://ruder.io/state-of-transfer-learning-in-nlp/), The State of Transfer Learning in NLP (blog post)
+: [Devlin et al. (2019)](https://aclanthology.org/N19-1423/), the BERT pre-trained model
