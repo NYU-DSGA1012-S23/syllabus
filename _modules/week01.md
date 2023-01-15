@@ -12,12 +12,11 @@ Topics
 : Lexical semantics, word embeddings, tokenization
 
 Reading
-: [Bender (2013)](https://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020) #7–16, on the concept of a "
+: [Bender (2013)](https://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020) \#7–16, on the concept of
+a "
 word"
-: [Bender and Lascarides (2019)](https://www.morganclaypool.com/doi/abs/10.2200/S00935ED1V02Y201907HLT043) #18, #19,
-
-# 22–30, on lexical semantics
-
+: [Bender and Lascarides (2019)](https://www.morganclaypool.com/doi/abs/10.2200/S00935ED1V02Y201907HLT043) \#18, \#19,
+\#22–30, on lexical semantics
 : [Hao (2021)](https://drive.google.com/file/d/1meO5SpD3PaQaGEZ4pYu27n0xyEncFoOK/view?usp=share_link), Sophie's notes on
 vector semantics (This was written when Sophie was a grad student, so please excuse the references to Yale and New Haven
 pizza.)
