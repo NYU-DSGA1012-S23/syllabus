@@ -13,9 +13,13 @@ Topics
 hyperparameter tuning
 
 Reading
-: [Preferred Networks, Inc. (2021)](https://pytorch.org/blog/overview-of-pytorch-autograd-engine), Overview of 
-PyTorch Autograd Engine (blog post)
-: [Olah (2015)](https://colah.github.io/posts/2015-08-Understanding-LSTMs/), Understanding LSTM Networks (blog post)
+: [Hao (2021)](https://drive.google.com/file/d/1bacO_yrfX940LQsfSCAhuavcHpd_JqWB/view?usp=share_link), Sophie's
+notes on gradient descent
+: [Hao (2023)](https://drive.google.com/file/d/1rKR8Kcj61SY5rifJIo9OaERPvEtXjelv/view?usp=share_link), Sophie's 
+notes on backpropagation in PyTorch
+: [Olah (2015a)](https://colah.github.io/posts/2015-08-Backprop/), Calculus on Computational Graphs: Backpropagation 
+(blog post)
+: [Olah (2015b)](https://colah.github.io/posts/2015-08-Understanding-LSTMs/), Understanding LSTM Networks (blog post)
 : [Alammar (2018)](https://jalammar.github.io/illustrated-transformer/), The Illustrated Transformer (blog post)
 
 Deadlines
