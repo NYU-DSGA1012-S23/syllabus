@@ -2,20 +2,19 @@
 title: Week 2, Jan. 31/Feb. 2
 ---
 
-### Meaning as Behavior
+### Basic Techniques 1: Deep Learning
 
-We will study our first NLU task, _text classification_. What does a model need to "understand" about language and the
-world in order to perform NLU tasks? We will use text classification a running example as we learn the basic techniques
-of NLU.
+We will learn how to optimize an arbitrary machine learning objective using the backpropagation and stochastic gradient
+descent algorithms. We then learn how word2vec embeddings are trained.
 
 Topics
-: Text classification, natural language inference, sentiment analysis
+: Stochastic gradient descent, Adam, backpropagation
 
 Reading
-: [Bender and Lascarides (2019)](https://www.morganclaypool.com/doi/abs/10.2200/S00935ED1V02Y201907HLT043) #77–78, on
-entailment and presupposition
-: [Bowman et al. (2015)](https://aclanthology.org/D15-1075/), the Stanford Natural Language Inference
-corpus [(website)](https://nlp.stanford.edu/projects/snli/)
+: [Hao (2023)](https://drive.google.com/file/d/1QWyIneavtxtIOvSwKuN4he0AgCCtn5Wm/view?usp=share_link), Sophie's notes on
+stochastic gradient descent
+: [Olah (2015a)](https://colah.github.io/posts/2015-08-Backprop/), Calculus on Computational Graphs: Backpropagation
+(blog post)
 
 Deadlines
 : **HW 0 Due**{: .label .label-red }

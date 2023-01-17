@@ -2,23 +2,21 @@
 title: Week 3, Feb. 7/9
 ---
 
-### Basic Techniques 1: Deep Learning
+### Entailment, Presupposition, and Reasoning
 
-We will learn how to define, train, and test a deep neural network model using the backpropagation and stochastic
-gradient descent algorithms. We will introduce common neural network architectures in NLU such as the multi-layer
-perceptron, the recurrent neural network, and the Transformer.
+In order to "understand" meaning and language, a model needs to know what statements are _entailed_ by others. Using the
+task of _natural language inference_ as a running example, we will introduce common neural network architectures in NLU
+such as the multi-layer perceptron, the recurrent neural network, and the Transformer.
 
 Topics
-: Neural architectures (MLP, RNN, LSTM, Transformer), automatic differentiation, the PyTorch software package, 
-hyperparameter tuning
+: Entailment, presupposition, text classification, natural language inference, neural architectures (MLPs, RNNs, LSTMs,
+attention mechanisms, Transformers)
 
 Reading
-: [Hao (2021)](https://drive.google.com/file/d/1bacO_yrfX940LQsfSCAhuavcHpd_JqWB/view?usp=share_link), Sophie's
-notes on gradient descent
-: [Hao (2023)](https://drive.google.com/file/d/1rKR8Kcj61SY5rifJIo9OaERPvEtXjelv/view?usp=share_link), Sophie's 
-notes on backpropagation in PyTorch
-: [Olah (2015a)](https://colah.github.io/posts/2015-08-Backprop/), Calculus on Computational Graphs: Backpropagation 
-(blog post)
+: [Bender and Lascarides (2019)](https://www.morganclaypool.com/doi/abs/10.2200/S00935ED1V02Y201907HLT043) #77–78, on
+entailment and presupposition
+: [Bowman et al. (2015)](https://aclanthology.org/D15-1075/), the Stanford Natural Language Inference
+corpus [(website)](https://nlp.stanford.edu/projects/snli/)
 : [Olah (2015b)](https://colah.github.io/posts/2015-08-Understanding-LSTMs/), Understanding LSTM Networks (blog post)
 : [Alammar (2018)](https://jalammar.github.io/illustrated-transformer/), The Illustrated Transformer (blog post)
 
