@@ -11,9 +11,9 @@ There is no fine-tuning or other explicit training on the target task.
 Reading
 : [Radford et al. (2019)](https://openai.com/blog/better-language-models/), Better Language Models and Their
 Implications (blog post)
-: [Brown et al. (2020)](https://arxiv.org/abs/2005.14165), the original GPT-3 paper (Warning: It's very long! You 
-don't have to read all of it.)
-: [Wei et al. (2022)](https://arxiv.org/abs/2201.11903), an example of sophisticated prompting 
+: [Brown et al. (2020)](https://arxiv.org/abs/2005.14165), the GPT-3 model (Read sections 1, 2, and 4, and pick two 
+subsections of section 3 to read)
+
 
 Deadlines
 : **Project Mini-Proposal Due**{: .label .label-blue }
