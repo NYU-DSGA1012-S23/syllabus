@@ -16,7 +16,7 @@ by Emily M. Bender and Alex Lascarides (Bender and Lascarides, 2019)
 
 These textbooks are primarily for reference; we will not be "following" them in any sense. Additionally, you will also
 be assigned original research papers and notes by Sophie for reading. All readings are available online free of charge.
-Some of them may require to be on campus wi-fi or VPN or to be logged into your
+Some of them may require you to be on campus wi-fi or VPN or to be logged into your
 [NYU Drive](https://www.nyu.edu/life/information-technology/communication-and-collaboration/document-collaboration-and-sharing/nyu-drive.html)
 account.
 
