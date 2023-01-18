@@ -13,11 +13,12 @@ Topics
 attention mechanisms, Transformers)
 
 Reading
+: **SLP**{: .label .label-yellow } [Chapter 25](https://web.stanford.edu/~jurafsky/slp3/25.pdf), on sentiment analysis
 : **D2L**{: .label .label-yellow }
 [Sections 16.1–16.2](https://d2l.ai/chapter_natural-language-processing-applications/sentiment-analysis-and-dataset.html), 
 on sentiment analysis using RNNs
 : **Ling2**{: .label .label-yellow }
-[\#77–78](https://www.morganclaypool.com/doi/abs/10.2200/S00935ED1V02Y201907HLT043) on entailment and presupposition
+[\#77–78](https://www.morganclaypool.com/doi/abs/10.2200/S00935ED1V02Y201907HLT043), on entailment and presupposition
 : [Bowman et al. (2015)](https://aclanthology.org/D15-1075/), the Stanford Natural Language Inference
 corpus [(website)](https://nlp.stanford.edu/projects/snli/)
 : [Olah (2015b)](https://colah.github.io/posts/2015-08-Understanding-LSTMs/), Understanding LSTM Networks (blog post)
