@@ -18,6 +18,4 @@ a "word"
 \#22–30, on lexical semantics
 : [Hao (2023)](https://drive.google.com/file/d/16vWNLaCFEmnW2kxhsCGkd5OXPEMgKl7v/view?usp=share_link), Sophie's notes on
 vector semantics
-: [Levy and Goldberg (2014)](https://papers.nips.cc/paper/2014/hash/feab05aa91085b7a8012516bc3533958-Abstract.html),
-what word2vec is really doing
 : [Bolukbasi et al. (2016)](https://arxiv.org/abs/1607.06520), on manipulating word embeddings
