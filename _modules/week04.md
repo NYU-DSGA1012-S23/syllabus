@@ -9,7 +9,7 @@ pre-training an encoder network on a language modeling objective. We survey comm
 and GPT-2.
 
 Topics
-: Pre-trained models, fine-tuning, BERT
+: Pre-trained models, BERT, contextualized embeddings
 
 Reading
 : **SLP**{: .label .label-yellow } [Chapters 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf) and
