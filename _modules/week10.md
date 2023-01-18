@@ -13,6 +13,8 @@ Topics
 : Interpretability, representation probing, attention visualization, BERTology
 
 Readings
+: [Belinkov and Glass (2019)](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00254/43503/Analysis-Methods-in-Neural-Language-Processing-A),
+an overview of interpretability in NLP
 : [Rogers et al. (2020)](https://aclanthology.org/2020.tacl-1.54/), on BERTology
 : [Coenen et al. (2019)](https://arxiv.org/abs/1906.02715), on the "geometry" of BERT representations ([blog post 
 version](https://pair-code.github.io/interpretability/bert-tree/))
