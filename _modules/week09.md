@@ -12,7 +12,7 @@ Topics
 : Parsing, model-theoretic semantics, ontologies
 
 Readings
-: **SLP**{: .label .label-yellow } Chapter [18, on dependency parsing](https://web.stanford.edu/~jurafsky/slp3/18.pdf)
+: **SLP**{: .label .label-yellow } Chapter [18 (on dependency parsing)](https://web.stanford.edu/~jurafsky/slp3/18.pdf)
 : [Kollar et al. (2018)](https://aclanthology.org/N18-3022/), the Alexa Meaning Representation Language
 
 Deadlines
