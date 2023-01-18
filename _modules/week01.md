@@ -12,14 +12,14 @@ Topics
 : Lexical semantics, word embeddings, tokenization
 
 Reading
-: [Bender (2013)](https://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020) \#7–16, on the concept of a “word”
-: [Bender and Lascarides (2019)](https://www.morganclaypool.com/doi/abs/10.2200/S00935ED1V02Y201907HLT043) \#18, \#19,
-\#21–24, on lexical semantics
-: [Hao (2023)](https://drive.google.com/file/d/16vWNLaCFEmnW2kxhsCGkd5OXPEMgKl7v/view?usp=share_link), Sophie's notes on
-vector semantics (skip-gram with negative sampling)
-: [Zhang et al. (2021)](https://d2l.ai/) sections 
-[15.1 (skip-gram and CBOW)](https://d2l.ai/chapter_natural-language-processing-pretraining/word2vec.html), 
-[15.5 (GloVe)](https://d2l.ai/chapter_natural-language-processing-pretraining/glove.html), 
-[15.6 (subword embeddings)](https://d2l.ai/chapter_natural-language-processing-pretraining/subword-embedding.html), 
-[15.7 (analogies)](https://d2l.ai/chapter_natural-language-processing-pretraining/similarity-analogy.html)
+: **Ling1**{: .label .label-blue } [\#7–16](https://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020),
+on the concept of a “word”
+: **Ling2**{: .label .label-blue }
+[\#18, \#19, \#21–24](https://www.morganclaypool.com/doi/abs/10.2200/S00935ED1V02Y201907HLT043), on lexical semantics
+: **Notes**{: .label .label-blue }
+[on vector semantics](https://drive.google.com/file/d/16vWNLaCFEmnW2kxhsCGkd5OXPEMgKl7v/view?usp=share_link)
+(skip-gram with negative sampling)
+: **D2L**{: .label .label-blue } sections
+[15.1, 15.5–15.7](https://d2l.ai/chapter_natural-language-processing-pretraining/word2vec.html), on various word
+embedding models
 : [Bolukbasi et al. (2016)](https://arxiv.org/abs/1607.06520), on manipulating word embeddings
