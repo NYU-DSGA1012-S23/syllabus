@@ -12,5 +12,9 @@ Topics
 : Pre-trained models, fine-tuning, BERT
 
 Reading
+: **SLP**{: .label .label-yellow } [Chapters 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf) and
+[11](https://web.stanford.edu/~jurafsky/slp3/11.pdf), on pre-training
+: **D2L**{: .label .label-yellow }
+[Sections 15.8–15.10](https://d2l.ai/chapter_natural-language-processing-pretraining/bert.html), on BERT
 : [Ruder (2019)](https://ruder.io/state-of-transfer-learning-in-nlp/), The State of Transfer Learning in NLP (blog post)
-: [Devlin et al. (2019)](https://aclanthology.org/N19-1423/), the BERT pre-trained model
+: [Devlin et al. (2019)](https://aclanthology.org/N19-1423/), the original BERT paper

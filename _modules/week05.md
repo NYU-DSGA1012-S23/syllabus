@@ -11,10 +11,8 @@ Topics
 : Fine-tuning, GPUs, high-performance computing
 
 Readings
-: **SLP**{: .label .label-yellow } [Chapter 11](https://web.stanford.edu/~jurafsky/slp3/11.pdf)
 : **D2L**{: .label .label-yellow } Sections 
-[16.6](https://d2l.ai/chapter_natural-language-processing-applications/finetuning-bert.html) and
-[16.7](https://d2l.ai/chapter_natural-language-processing-applications/natural-language-inference-bert.html)
+[16.6–16.7](https://d2l.ai/chapter_natural-language-processing-applications/finetuning-bert.html), on fine-tuning BERT
 
 Deadlines
 : **HW 2 Due**{: .label .label-red }
