@@ -9,14 +9,18 @@ nav_order: 4
 The course schedule may be subject to change. All deadlines are on Wednesday at 9:30 AM unless stated otherwise.
 
 The textbooks for this course are:
-* **D2L**{: .label .label-yellow }
+<ul style="list-style-type: none">
+<li>**D2L**{: .label .label-yellow }
 [_Dive into Deep Learning_](https://d2l.ai/index.html) by Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola
-* **Ling1**{: .label .label-yellow }
-[_Linguistic Fundamentals for Natural Language Processing_](https://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020) by Emily M. Bender
-* **Ling2**{: .label .label-yellow }
-[_Linguistic Fundamentals for Natural Language Processing II_](https://www.morganclaypool.com/doi/abs/10.2200/S00935ED1V02Y201907HLT043) by Emily M. Bender and Alex Lascarides
-* **Notes**{: .label .label-yellow }
-Course notes by Sophie
+<li>**Ling1**{: .label .label-yellow }</li>
+[_Linguistic Fundamentals for Natural Language Processing_](https://www.morganclaypool.com/doi/abs/10
+.2200/S00493ED1V01Y201303HLT020) by Emily M. Bender</li>
+<li>**Ling2**{: .label .label-yellow }
+[_Linguistic Fundamentals for Natural Language Processing II_](https://www.morganclaypool.com/doi/abs/10
+.2200/S00935ED1V02Y201907HLT043) by Emily M. Bender and Alex Lascarides</li>
+<li>**Notes**{: .label .label-yellow }
+Course notes by Sophie</li>
+</ul>
 
 These textbooks are primarily for reference; we will not be "following" them in any sense. Additionally, you will also
 be assigned original research papers and notes by Sophie for reading. All readings are available online free of charge.
