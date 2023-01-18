@@ -13,10 +13,12 @@ Topics
 attention mechanisms, Transformers)
 
 Reading
-: [Bender and Lascarides (2019)](https://www.morganclaypool.com/doi/abs/10.2200/S00935ED1V02Y201907HLT043) #77–78, on
-entailment and presupposition
+: **Ling2**{: .label .label-yellow }
+[\#77–78](https://www.morganclaypool.com/doi/abs/10.2200/S00935ED1V02Y201907HLT043) on entailment and presupposition
 : [Bowman et al. (2015)](https://aclanthology.org/D15-1075/), the Stanford Natural Language Inference
 corpus [(website)](https://nlp.stanford.edu/projects/snli/)
+: **Ling2**{: .label .label-yellow }
+[\#77–78](https://www.morganclaypool.com/doi/abs/10.2200/S00935ED1V02Y201907HLT043) on entailment and presupposition
 : [Olah (2015b)](https://colah.github.io/posts/2015-08-Understanding-LSTMs/), Understanding LSTM Networks (blog post)
 : [Alammar (2018)](https://jalammar.github.io/illustrated-transformer/), The Illustrated Transformer (blog post)
 
