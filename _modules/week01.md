@@ -19,7 +19,8 @@ on the concept of a “word”
 : **Notes**{: .label .label-yellow }
 [on vector semantics](https://drive.google.com/file/d/16vWNLaCFEmnW2kxhsCGkd5OXPEMgKl7v/view?usp=share_link)
 (skip-gram with negative sampling)
-: **D2L**{: .label .label-yellow } sections
-[15.1, 15.5–15.7](https://d2l.ai/chapter_natural-language-processing-pretraining/word2vec.html), on various word
+: **D2L**{: .label .label-yellow }
+[Sections 15.1, 15.5–15.7](https://d2l.ai/chapter_natural-language-processing-pretraining/word2vec.html), on various 
+word
 embedding models
 : [Bolukbasi et al. (2016)](https://arxiv.org/abs/1607.06520), on manipulating word embeddings
