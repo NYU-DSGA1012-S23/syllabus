@@ -16,6 +16,6 @@ Readings
 [\#44–50](https://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020), on syntax
 : **LING2**{: .label .label-yellow }
 [\#47](https://www.morganclaypool.com/doi/abs/10.2200/S00935ED1V02Y201907HLT043), on compositional semantics
-: **SLP**{: .label .label-yellow }  
-[Chapters 17](https://web.stanford.edu/~jurafsky/slp3/17.pdf), on constituency parsing, and 
-[19](https://web.stanford.edu/~jurafsky/slp3/19.pdf), on logical form
+: **SLP**{: .label .label-yellow } [Chapter 17](https://web.stanford.edu/~jurafsky/slp3/17.pdf), on constituency 
+parsing
+: **SLP**{: .label .label-yellow } [Chapter 19](https://web.stanford.edu/~jurafsky/slp3/19.pdf), on logical form
