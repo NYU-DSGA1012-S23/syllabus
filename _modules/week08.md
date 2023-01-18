@@ -10,3 +10,11 @@ combine with one another to form complex expressions with complex meanings.
 
 Topics
 : Compositional semantics, natural language syntax, lambda calculus, predicate logic
+
+Readings
+: **LING1**{: .label .label-yellow } 
+[\#44–50](https://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020), on syntax
+: **LING2**{: .label .label-yellow }
+[\#47](https://www.morganclaypool.com/doi/abs/10.2200/S00935ED1V02Y201907HLT043), on compositional semantics
+: **SLP**{: .label .label-yellow } Chapters [17](https://web.stanford.edu/~jurafsky/slp3/17.pdf) and 
+[19](https://web.stanford.edu/~jurafsky/slp3/19.pdf)

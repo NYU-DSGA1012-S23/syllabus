@@ -12,8 +12,8 @@ Topics
 : Parsing, model-theoretic semantics, ontologies
 
 Readings
-: [Kollar et al. (2018)](https://aclanthology.org/N18-3022/), the Alexa Meaning Representation Language, a typical
-example of a structured language interpreted using a formally-defined ontology
+: **SLP**{: .label .label-yellow } Chapter [18, on dependency parsing](https://web.stanford.edu/~jurafsky/slp3/18.pdf)
+: [Kollar et al. (2018)](https://aclanthology.org/N18-3022/), the Alexa Meaning Representation Language
 
 Deadlines
 : **Project Proposal Due**{: .label .label-blue }
