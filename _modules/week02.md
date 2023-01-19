@@ -10,6 +10,9 @@ We then learn how word2vec embeddings are trained while introducing the conceptu
 Topics
 : Stochastic gradient descent, Adam, automatic differentiation
 
+Lab
+: Introduction to supervised learning
+
 Reading
 : **D2L**{: .label .label-yellow } 
 [Sections 15.3–15.4](https://d2l.ai/chapter_natural-language-processing-pretraining/word-embedding-dataset.html), on 

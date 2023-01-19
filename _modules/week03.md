@@ -12,6 +12,9 @@ Topics
 : Entailment, presupposition, text classification, natural language inference, neural architectures (MLPs, RNNs, LSTMs,
 attention mechanisms, Transformers)
 
+Lab
+: Text classification in PyTorch
+
 Reading
 : **SLP**{: .label .label-yellow } [Chapter 25](https://web.stanford.edu/~jurafsky/slp3/25.pdf), on sentiment analysis
 : **D2L**{: .label .label-yellow }

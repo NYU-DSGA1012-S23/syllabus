@@ -11,6 +11,9 @@ scientists. We will learn about the word2vec model of semantics and examine in w
 Topics
 : Lexical semantics, word embeddings, tokenization
 
+Lab
+: Exploration of embedding spaces
+
 Reading
 : **Ling1**{: .label .label-yellow } [\#7–16](https://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020),
 on the concept of a “word”
