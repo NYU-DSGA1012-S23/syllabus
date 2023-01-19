@@ -12,7 +12,7 @@ Topics
 : Pre-trained models, BERT, contextualized embeddings
 
 Lab
-: Fine-tuning using 🤗 Transformers
+: Fine-tuning with 🤗 Transformers
 
 Reading
 : **SLP**{: .label .label-yellow } [Chapter 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf), on Transformer 

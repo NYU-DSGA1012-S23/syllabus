@@ -14,6 +14,7 @@ Lab
 : Introduction to supervised learning
 
 Reading
+: **SLP**{: .label .label-yellow } [Chapter 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf), on logistic regression
 : **D2L**{: .label .label-yellow } 
 [Sections 15.3–15.4](https://d2l.ai/chapter_natural-language-processing-pretraining/word-embedding-dataset.html), on 
 training

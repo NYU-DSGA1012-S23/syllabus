@@ -29,6 +29,8 @@ Some of them may require you to be on campus wi-fi or VPN or to be logged into y
 [NYU Drive](https://www.nyu.edu/life/information-technology/communication-and-collaboration/document-collaboration-and-sharing/nyu-drive.html)
 account.
 
+You do not have to do all the readings, but we will talk about most of them during class.
+
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
