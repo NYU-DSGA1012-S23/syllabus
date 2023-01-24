@@ -11,6 +11,10 @@ scientists. We will learn about the word2vec model of semantics and examine in w
 Topics
 : Lexical semantics, word embeddings, tokenization
 
+Lecture
+: [Slides](https://nyu.zoom.us/rec/share/6CGMe6KzGdXMsh2vN0_0o8pAi3inExMjoA38xgWQEI8RYR1BdEKzGrnu9hnxFk8S.HQiIXcuZe6JCU0th?startTime=1674572102000)
+: [Zoom Recording](https://nyu.zoom.us/rec/share/6CGMe6KzGdXMsh2vN0_0o8pAi3inExMjoA38xgWQEI8RYR1BdEKzGrnu9hnxFk8S.HQiIXcuZe6JCU0th?startTime=1674572102000)
+
 Lab
 : Exploration of embedding spaces
 
