@@ -19,16 +19,16 @@ student in collaboration with two to three classmates.
 
 #### Instructor
 
-* Sophie Hao (NYU email: `sophie.hao`)
+* Sophie Hao (**she/her**{: .label } NYU email: `sophie.hao`)
 
 #### Section Leaders
 
-* Lorena Piedras (NYU email: `lp2535`)
-* Namrata Mukhija (NYU email: `nm3571`)
+* Lorena Piedras (**she/her**{: .label } NYU email: `lp2535`)
+* Namrata Mukhija (**she/her**{: .label } NYU email: `nm3571`)
 
 #### Grader
 
-* Artie Shen
+* Artie Shen (NYU email: `ys1001`)
 
 ## Logistics
 
@@ -42,6 +42,14 @@ Tuesdays, 10:00–11:40, with Sophie
 #### Lab
 
 Thursdays, 11:15–12:05, with Lorena or Namrata
+
+#### Office Hours
+
+Office hours take place **in person** at [60 5th Ave](https://goo.gl/maps/ebreTwPLgwXsyKZZ6).
+
+Tuesdays, 3:00–4:00, with Namrata in Room 763  
+Thursdays, 12:30–1:30, with Lorena in Room 763  
+Fridays, 11:00–12:00, with Sophie in Room 700
 
 ## Prerequisites
 
