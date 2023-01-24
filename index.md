@@ -19,12 +19,12 @@ student in collaboration with two to three classmates.
 
 #### Instructor
 
-* Sophie Hao (**she/her**{: .label } NYU email: `sophie.hao`)
+* Sophie Hao **she/her**{: .label } (NYU email: `sophie.hao`)
 
 #### Section Leaders
 
-* Lorena Piedras (**she/her**{: .label } NYU email: `lp2535`)
-* Namrata Mukhija (**she/her**{: .label } NYU email: `nm3571`)
+* Lorena Piedras **she/her**{: .label } (NYU email: `lp2535`)
+* Namrata Mukhija **she/her**{: .label } (NYU email: `nm3571`)
 
 #### Grader
 
