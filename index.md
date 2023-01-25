@@ -33,15 +33,15 @@ student in collaboration with two to three classmates.
 ## Logistics
 
 All class sessions take place **in person** in **Room G08** of
-[12 Waverly Place](https://goo.gl/maps/3qye7472KPRqERbi8).
+[12 Waverly Place](https://goo.gl/maps/3qye7472KPRqERbi8). They will also be live-streamed on Zoom and recorded.
 
 #### Lectures
 
-Tuesdays, 10:00–11:40, with Sophie
+Tuesdays, 10:00–11:40, with Sophie ([Zoom](https://nyu.zoom.us/j/92410947089))
 
 #### Lab
 
-Thursdays, 11:15–12:05, with Lorena or Namrata
+Thursdays, 11:15–12:05, with Lorena or Namrata (([Zoom](https://nyu.zoom.us/j/94134057762)))
 
 #### Office Hours
 
