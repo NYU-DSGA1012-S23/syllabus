@@ -41,7 +41,7 @@ Tuesdays, 10:00–11:40, with Sophie ([Zoom](https://nyu.zoom.us/j/92410947089))
 
 #### Lab
 
-Thursdays, 11:15–12:05, with Lorena or Namrata (([Zoom](https://nyu.zoom.us/j/94134057762)))
+Thursdays, 11:15–12:05, with Lorena or Namrata ([Zoom](https://nyu.zoom.us/j/94134057762))
 
 #### Office Hours
 
