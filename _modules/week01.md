@@ -16,7 +16,8 @@ Lecture
 [Zoom Recording](https://nyu.zoom.us/rec/share/6CGMe6KzGdXMsh2vN0_0o8pAi3inExMjoA38xgWQEI8RYR1BdEKzGrnu9hnxFk8S.HQiIXcuZe6JCU0th?startTime=1674572102000)
 
 Lab
-: Exploration of embedding spaces
+: [Colab Notebook](https://colab.research.google.com/drive/1ehOgBO1iqIITO5T1w5SN5ExhPPs-nSrR?usp=sharing),
+[Zoom Recording](https://nyu.zoom.us/rec/share/uoPqYrtBEgIO8ihJqpaat0xKCCGJ2yHYqVJw5ayYDsZFxdthEpfWzog2_Gxbcur-.77NL8dp_0H7QQl-L)
 
 Reading
 : **Ling1**{: .label .label-yellow } [\#7–16](https://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020),
