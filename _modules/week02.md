@@ -10,6 +10,10 @@ We then learn how word2vec embeddings are trained while introducing the conceptu
 Topics
 : Stochastic gradient descent, Adam, automatic differentiation
 
+Lecture
+: [Slides](https://drive.google.com/file/d/1imOT2z5RObTX8MgU7fwwGvHrrZcmUTY5/view?usp=share_link),
+[Zoom Recording](https://nyu.zoom.us/rec/share/NPbiqbsAKOZlfe-b0buy0exLSuIpPDJq9nn7ASWE6ZKnhPFERzKRDjUyN4jGX2MG.j1XxekNe_aa9WNId)
+
 Lab
 : Introduction to supervised learning
 
