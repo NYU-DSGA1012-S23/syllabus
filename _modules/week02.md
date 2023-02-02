@@ -15,7 +15,8 @@ Lecture
 [Zoom Recording](https://nyu.zoom.us/rec/share/NPbiqbsAKOZlfe-b0buy0exLSuIpPDJq9nn7ASWE6ZKnhPFERzKRDjUyN4jGX2MG.j1XxekNe_aa9WNId)
 
 Lab
-: Introduction to supervised learning
+: [Colab Notebook](https://colab.research.google.com/drive/11b1gFUk5RDilOrMu6aE9da5e71ZeXTo7?usp=sharing),
+[Zoom Recording](https://nyu.zoom.us/rec/share/K4rM-AZP0XpXV4ejO5wHaxafvI3jZcMHi0w6UgI2W3gbSI56pKPT-SlbYsIZ4_o.gCN_kVvPA-mPhPcW)
 
 Reading
 : **SLP**{: .label .label-yellow } [Chapter 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf), on logistic regression
