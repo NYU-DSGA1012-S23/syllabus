@@ -12,6 +12,10 @@ Topics
 : Entailment, presupposition, text classification, natural language inference, neural architectures (MLPs, RNNs, LSTMs,
 attention mechanisms, Transformers)
 
+Lecture
+: [Slides](https://drive.google.com/file/d/15zEVVVNfJHKHOkWendKSH_QePY2OGKWP/view?usp=share_link),
+[Zoom Recording](https://nyu.zoom.us/rec/share/7VMh1HcrQ-fXbHA2_s8ig3qXgYgrqwEJTdTwN3DN3r1RQQybGQScJ5rq8YyROS3t.QnJc9Qos_youz-Tb)
+
 Lab
 : Text classification in PyTorch
 
