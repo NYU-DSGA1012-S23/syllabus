@@ -12,7 +12,7 @@ Topics
 : Pre-trained models, BERT, contextualized embeddings
 
 Lecture
-: [Slides](https://drive.google.com/file/d/1hxwbBAZDzuhPDhm_0-mb-xuPEeLovsM5/view?usp=sharingz),
+: [Slides](https://drive.google.com/file/d/1hxwbBAZDzuhPDhm_0-mb-xuPEeLovsM5/view?usp=sharing),
 [Zoom Recording](https://nyu.zoom.us/rec/share/YvBGc1Li1EohCok_ZwHI9vvUae4soS3TliGH-x75JmPGHwTojyYLUHJwIzbvmcHq.S-rv0uYasJK6-osW )
 
 

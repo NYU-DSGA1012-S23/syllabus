@@ -16,4 +16,6 @@ subsections of section 3 to read)
 
 
 Deadlines
+: **HW 2 Due 2/27**{: .label .label-red }
+: **EC 2 Due 2/27**{: .label .label-green }
 : **Project Mini-Proposal Due**{: .label .label-blue }
