@@ -17,7 +17,8 @@ Lecture
 [Zoom Recording](https://nyu.zoom.us/rec/share/7VMh1HcrQ-fXbHA2_s8ig3qXgYgrqwEJTdTwN3DN3r1RQQybGQScJ5rq8YyROS3t.QnJc9Qos_youz-Tb)
 
 Lab
-: Text classification in PyTorch
+: [Colab Notebook](https://colab.research.google.com/drive/10xe4rL74v7X1JK2wIAyZelaPpARuJyTx?usp=sharing),
+[Zoom Recording](https://nyu.zoom.us/rec/share/AQtwUvvucX20y8QFAM_SqRK-JAfhlTcv14r6jV-oC3lNd-gYYDcnmsmX9pME9kwR.v6M2xnFIkZQ4x67)
 
 Reading
 : **Notes**{: .label .label-yellow }
