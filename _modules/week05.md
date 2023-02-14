@@ -17,6 +17,3 @@ Readings
 fine-tuning BERT
 : [Ruder (2019)](https://ruder.io/state-of-transfer-learning-in-nlp/), The State of Transfer Learning in NLP (blog post)
 
-Deadlines
-: **HW 2 Due**{: .label .label-red }
-: **EC 2 Due**{: .label .label-green }
