@@ -17,7 +17,7 @@ Lecture
 
 
 Lab
-: Fine-tuning with 🤗 Transformers
+: [Colab Notebook](https://colab.research.google.com/drive/19u3bxWWeoOGD2eb5AtjSQUDiYbgdTDDl?usp=sharing)
 
 Reading
 : **SLP**{: .label .label-yellow } [Chapter 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf), on Transformer 
