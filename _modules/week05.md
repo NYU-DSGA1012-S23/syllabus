@@ -10,6 +10,11 @@ using parallel computation on GPUs.
 Topics
 : Fine-tuning, GPUs, high-performance computing
 
+Lecture
+: [Sophie's Slides](https://drive.google.com/file/d/1Qz8ozH370f1OcqSisUnw79SfFO26KUG5/view?usp=share_link),
+[Jason's Slides](https://drive.google.com/file/d/1N7F4_19B5v3Nld-ePu-wnwlduUKh0jcn/view?usp=share_link),
+[Zoom Recording](https://nyu.zoom.us/rec/share/IGlQsDw0pzxywuZTi2Mnr7JiX1qFfrN1A8f6_Qiw6szWHhNNTELkAg4Dsl20dbXU.y_FwOI5BP2qQKh3k)
+
 Readings
 : **SLP**{: .label .label-yellow } [Chapter 11](https://web.stanford.edu/~jurafsky/slp3/11.pdf), on fine-tuning 
 : **D2L**{: .label .label-yellow }
