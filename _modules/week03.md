@@ -18,7 +18,7 @@ Lecture
 
 Lab
 : [Colab Notebook](https://colab.research.google.com/drive/10xe4rL74v7X1JK2wIAyZelaPpARuJyTx?usp=sharing),
-[Zoom Recording](https://nyu.zoom.us/rec/share/AQtwUvvucX20y8QFAM_SqRK-JAfhlTcv14r6jV-oC3lNd-gYYDcnmsmX9pME9kwR.v6M2xnFIkZQ4x67)
+[Zoom Recording](https://nyu.zoom.us/rec/share/AQtwUvvucX20y8QFAM_SqRK-JAfhlTcv14r6jV-oC3lNd-gYYDcnmsmX9pME9kwR.v6M2xnFIkZQ4x67_)
 
 Reading
 : **Notes**{: .label .label-yellow }
