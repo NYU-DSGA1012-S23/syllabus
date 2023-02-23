@@ -18,6 +18,7 @@ Lecture
 
 Lab
 : [Colab Notebook](https://colab.research.google.com/drive/19u3bxWWeoOGD2eb5AtjSQUDiYbgdTDDl?usp=sharing)
+(No Zoom recording due to technical issue)
 
 Reading
 : **SLP**{: .label .label-yellow } [Chapter 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf), on Transformer 

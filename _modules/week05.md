@@ -15,6 +15,10 @@ Lecture
 [Jason's Slides](https://drive.google.com/file/d/1N7F4_19B5v3Nld-ePu-wnwlduUKh0jcn/view?usp=share_link),
 [Zoom Recording](https://nyu.zoom.us/rec/share/IGlQsDw0pzxywuZTi2Mnr7JiX1qFfrN1A8f6_Qiw6szWHhNNTELkAg4Dsl20dbXU.y_FwOI5BP2qQKh3k)
 
+Lab
+: [Slides](https://drive.google.com/file/d/1JpYGuTausigXmi5yyCEXOn9l2ykOJwcu/view?usp=share_link),
+[Zoom Recording](https://nyu.zoom.us/rec/share/4c9mJOjDlCrY_U2rXjyru7P0LJ-pVZ1mDZP9J-yPUu_RVpe5sEd9HPBTDC83AFRv.D9UmhXu5ZwL-VXbr)
+
 Readings
 : **SLP**{: .label .label-yellow } [Chapter 11](https://web.stanford.edu/~jurafsky/slp3/11.pdf), on fine-tuning 
 : **D2L**{: .label .label-yellow }
