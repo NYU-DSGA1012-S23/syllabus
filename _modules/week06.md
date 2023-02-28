@@ -8,6 +8,10 @@ We take the idea of transfer learning a step further with _in-context adaptation
 by large, general-purpose language models by having them auto-complete a prompt that describes the task and the input.
 There is no fine-tuning or other explicit training on the target task.
 
+Lecture
+: [Slides](https://drive.google.com/file/d/1KNJvUnZGiSrCEFAw4bPOaDTziv6jf2_K/view?usp=share_link),
+[Zoom Recording](https://nyu.zoom.us/rec/share/m5Vd5HVifEhOSjjpvpL15OScctCxq9pd9kmbluUfl-FW-VN9c6OXYqA2IPJC2hYU.NIj0FGE-gt75xKHt)
+
 Reading
 : [Radford et al. (2019)](https://openai.com/blog/better-language-models/), Better Language Models and Their
 Implications (blog post)
