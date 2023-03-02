@@ -9,4 +9,4 @@ lifecycle of a typical NLP research project, from problem formation to dataset c
 to the analysis of results.
 
 Deadlines
-: **HW 3 Due**{: .label .label-red }
+: **Project Mini-Proposal Due**{: .label .label-blue }

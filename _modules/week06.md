@@ -8,6 +8,11 @@ We take the idea of transfer learning a step further with _in-context adaptation
 by large, general-purpose language models by having them auto-complete a prompt that describes the task and the input.
 There is no fine-tuning or other explicit training on the target task.
 
+Topics
+: Language modeling, perplexity, the noisy channel model, in-context adaptation, reinforcement learning from human 
+feedback, the GPT models (GPT-2, GPT-3, 
+InstructGPT, ChatGPT)
+
 Lecture
 : [Slides](https://drive.google.com/file/d/1KNJvUnZGiSrCEFAw4bPOaDTziv6jf2_K/view?usp=share_link),
 [Zoom Recording](https://nyu.zoom.us/rec/share/m5Vd5HVifEhOSjjpvpL15OScctCxq9pd9kmbluUfl-FW-VN9c6OXYqA2IPJC2hYU.NIj0FGE-gt75xKHt)
@@ -31,5 +36,5 @@ fine-tuning technique for InstructGPT and ChatGPT
 
 
 Deadlines
-: **HW 2 Due 2/27**{: .label .label-red } : **EC 2 Due 2/27**{: .label .label-green }
+: **HW 2 Due 2/27**{: .label .label-red } **EC 2 Due 2/27**{: .label .label-green }
 <!-- : **Project Mini-Proposal Due**{: .label .label-blue } -->
