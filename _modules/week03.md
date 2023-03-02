@@ -27,7 +27,7 @@ Reading
 [On neural networks](https://drive.google.com/file/d/1rjo8GW_k9rFaQXMQ5sxBjKUhPcM7Zzk5/view?usp=share_link)
 : **Ling1**{: .label .label-yellow } [\#7–16](https://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020),
 on the concept of a “word”
+: [Chapter 5](https://huggingface.co/course/chapter6/5) of the  🤗 Course, on byte-pair tokenization
 
 Deadlines
-: **HW 1 Due**{: .label .label-red }
-: **EC 1 Due**{: .label .label-green }
+: **HW 1 Due**{: .label .label-red } **EC 1 Due**{: .label .label-green }
