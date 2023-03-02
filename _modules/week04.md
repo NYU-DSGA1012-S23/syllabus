@@ -24,7 +24,6 @@ Lab
 Reading
 : [Olah (2015b)](https://colah.github.io/posts/2015-08-Understanding-LSTMs/), Understanding LSTM Networks (blog post)
 : [Alammar (2018)](https://jalammar.github.io/illustrated-transformer/), The Illustrated Transformer (blog post)
-: **SLP**{: .label .label-yellow } [Chapter 25](https://web.stanford.edu/~jurafsky/slp3/25.pdf), on sentiment analysis
 : **D2L**{: .label .label-yellow }
 [Sections 16.1–16.2](https://d2l.ai/chapter_natural-language-processing-applications/sentiment-analysis-and-dataset.html),
 on sentiment analysis using RNNs

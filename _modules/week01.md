@@ -20,8 +20,6 @@ Lab
 [Zoom Recording](https://nyu.zoom.us/rec/share/uoPqYrtBEgIO8ihJqpaat0xKCCGJ2yHYqVJw5ayYDsZFxdthEpfWzog2_Gxbcur-.77NL8dp_0H7QQl-L)
 
 Reading
-: **Ling1**{: .label .label-yellow } [\#7–16](https://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020),
-on the concept of a “word”
 : **Ling2**{: .label .label-yellow }
 [\#18–19, \#21–24](https://www.morganclaypool.com/doi/abs/10.2200/S00935ED1V02Y201907HLT043), on lexical semantics
 : **Notes**{: .label .label-yellow }
