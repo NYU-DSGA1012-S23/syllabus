@@ -19,11 +19,17 @@ Lab
 Reading
 : [Radford et al. (2019)](https://openai.com/blog/better-language-models/), Better Language Models and Their
 Implications (blog post)
-: [Brown et al. (2020)](https://arxiv.org/abs/2005.14165), the GPT-3 model (Read sections 1, 2, and 4, and pick two 
+: [Lowe and Leike (2022)](https://openai.com/research/instruction-following), Aligning Language Models to Follow 
+Instructions (blog post)
+: [Brown et al. (2020)](https://arxiv.org/abs/2005.14165), in-context adaptation with GPT-3 (Read sections 1, 2, 
+and 4, and pick two 
 subsections of section 3 to read)
+: [Wei et al. (2022)](https://arxiv.org/abs/2201.11903), chain-of-thought prompting
+: [Press et al. (2022)](https://arxiv.org/abs/2210.03350), self-ask prompting
+: [Ouyang et al. (2022)](https://arxiv.org/abs/2203.02155), reinforcement learning from human feedback (RLHF), the 
+fine-tuning technique for InstructGPT and ChatGPT
 
 
 Deadlines
-: **HW 2 Due 2/27**{: .label .label-red }
-: **EC 2 Due 2/27**{: .label .label-green }
-: **Project Mini-Proposal Due**{: .label .label-blue }
+: **HW 2 Due 2/27**{: .label .label-red } : **EC 2 Due 2/27**{: .label .label-green }
+<!-- : **Project Mini-Proposal Due**{: .label .label-blue } -->
