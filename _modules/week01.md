@@ -9,7 +9,7 @@ scientists. We will learn about the word2vec model of semantics and examine in w
 "meaning."
 
 Topics
-: Lexical semantics, word embeddings, tokenization
+: Lexical semantics, word embeddings, the distributional hypothesis
 
 Lecture
 : [Slides](https://drive.google.com/file/d/1w6hHItHkn3R7QI1AiN9500J5cSRdOCTT/view?usp=share_link), 
@@ -31,4 +31,5 @@ on the concept of a “word”
 [Sections 15.1, 15.5–15.7](https://d2l.ai/chapter_natural-language-processing-pretraining/word2vec.html), on various 
 word
 embedding models
-: [Bolukbasi et al. (2016)](https://arxiv.org/abs/1607.06520), on manipulating word embeddings
+: [Mikolov et al. (2013)](https://arxiv.org/abs/1301.3781), the original word2vec paper
+<!-- : [Bolukbasi et al. (2016)](https://arxiv.org/abs/1607.06520), on manipulating word embeddings -->

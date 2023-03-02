@@ -4,11 +4,12 @@ title: Week 2, Jan. 31/Feb. 2
 
 ### Basic Techniques 1: Deep Learning
 
-We will learn how to optimize an arbitrary machine learning objective using the stochastic gradient descent algorithm.
-We then learn how word2vec embeddings are trained while introducing the conceptual framework of _neural networks_.
+We will learn how to optimize an arbitrary machine learning objective using the stochastic gradient descent 
+algorithm and its more popular variant, Adam. We will also learn how automatic differentiation is implemented in the 
+PyTorch software library.
 
 Topics
-: Stochastic gradient descent, Adam, automatic differentiation
+: Stochastic gradient descent, Adam, automatic differentiation, PyTorch
 
 Lecture
 : [Slides](https://drive.google.com/file/d/1imOT2z5RObTX8MgU7fwwGvHrrZcmUTY5/view?usp=share_link),

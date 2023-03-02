@@ -2,15 +2,16 @@
 title: Week 3, Feb. 7/9
 ---
 
-### Entailment, Presupposition, and Reasoning
+### Basic Techniques 2: Neural Networks
 
-We introduce two tasks that require models to "understand" language to a certain extent: _sentiment analysis_ and
-_natural language inference_. Using these tasks as running examples, we will introduce common neural network
-architectures in NLU such as the multi-layer perceptron, the recurrent neural network, and the Transformer.
+We introduce _sentiment analysis_, a text classification task that requires models to "understand" language in some 
+sense. Using sentiment analysis as a running example, we introduce the conceptual framework of _neural networks_. We 
+also discuss the concept of a "word" in natural language, and how it is instantiated in NLP through _tokenization_.
 
 Topics
-: Entailment, presupposition, text classification, natural language inference, neural architectures (MLPs, RNNs, LSTMs,
-attention mechanisms, Transformers)
+: text classification, sentiment analysis, neural networks, multi-layer perceptrons, natural language morphology 
+(morphemes and words), 
+tokenization (traditional and byte-pair)
 
 Lecture
 : [Slides](https://drive.google.com/file/d/15zEVVVNfJHKHOkWendKSH_QePY2OGKWP/view?usp=share_link),
