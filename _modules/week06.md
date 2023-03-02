@@ -2,7 +2,7 @@
 title: Week 6, Feb. 28/Mar. 2
 ---
 
-### Basic Techniques 3: In-Context Adaptation
+### Basic Techniques 5: In-Context Adaptation
 
 We take the idea of transfer learning a step further with _in-context adaptation_. In this approach, tasks are performed
 by large, general-purpose language models by having them auto-complete a prompt that describes the task and the input.
