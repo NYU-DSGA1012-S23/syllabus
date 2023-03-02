@@ -12,6 +12,10 @@ Lecture
 : [Slides](https://drive.google.com/file/d/1KNJvUnZGiSrCEFAw4bPOaDTziv6jf2_K/view?usp=share_link),
 [Zoom Recording](https://nyu.zoom.us/rec/share/m5Vd5HVifEhOSjjpvpL15OScctCxq9pd9kmbluUfl-FW-VN9c6OXYqA2IPJC2hYU.NIj0FGE-gt75xKHt)
 
+Lab
+: [Slides](https://drive.google.com/file/d/1tbAms33Kiz7zH81lvkc9ugeVaUXzu2e0/view?usp=share_link),
+[Zoom Recording](https://nyu.zoom.us/rec/share/xK1BzYJEEHwBqxqAF8LjzFS6jgZiQABaN3VUr_egcUXmD_OBBYPQEe4Yudqr6Uap.JzT8ho940HeDYJki)
+
 Reading
 : [Radford et al. (2019)](https://openai.com/blog/better-language-models/), Better Language Models and Their
 Implications (blog post)
