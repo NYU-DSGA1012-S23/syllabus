@@ -7,9 +7,17 @@ title: Week 7, Mar. 7/9
 As you begin to flesh out your projects, we will learn the basic scientific methodology of NLP. We will learn about 
 the peer review and publishing process in NLP as well as the elements that make up a typical NLP research project.
 
+Topics
+: Types of academic research, the ACL, publishing and peer review, structure of a research project, experimental 
+methodology, high-performance computing
+
 Lecture
 : [Slides](https://drive.google.com/file/d/1E7ukpLUlFnqOGNGjuENl7n3LfULW1v73/view?usp=share_link),
 [Zoom Recording](https://nyu.zoom.us/rec/share/DbMws7eIWYNd4XZdI3t6EUG8kl6Yga3j_7xm61r1gqEgW9Tm-eAgCGEeHSange8B.Hr0BWeN_hRqwAlgJ)
+
+Lab
+: [Slides](https://campuspro-uploads.s3.us-west-2.amazonaws.com/b6e76357-14ac-44f7-b6db-336e7d0c4196/7ab358b0-75ee-44c3-b175-414eee221b3b/Lab%207%20%7C%20HPC%20for%20NLU.pdf),
+[Zoom Recording](https://nyu.zoom.us/rec/share/bhBLBV7YBV1ZkKkTbQCFyIyGGrsPVMX_0elHSDqZjcoj-OPFow0C0F9o1003QVbt.9GLcbzuof6KHFCYR)
 
 Reading
 : [Zaken et al. (2022)](https://aclanthology.org/2022.acl-short.1/), The BitFit paper that we read together in class
