@@ -16,7 +16,7 @@ Lecture
 [Zoom Recording](https://nyu.zoom.us/rec/share/DbMws7eIWYNd4XZdI3t6EUG8kl6Yga3j_7xm61r1gqEgW9Tm-eAgCGEeHSange8B.Hr0BWeN_hRqwAlgJ)
 
 Lab
-: [Slides](https://campuspro-uploads.s3.us-west-2.amazonaws.com/b6e76357-14ac-44f7-b6db-336e7d0c4196/7ab358b0-75ee-44c3-b175-414eee221b3b/Lab%207%20%7C%20HPC%20for%20NLU.pdf),
+: [Slides](https://campuswire.com/c/GB6E76357/feed/124),
 [Zoom Recording](https://nyu.zoom.us/rec/share/bhBLBV7YBV1ZkKkTbQCFyIyGGrsPVMX_0elHSDqZjcoj-OPFow0C0F9o1003QVbt.9GLcbzuof6KHFCYR)
 
 Reading
