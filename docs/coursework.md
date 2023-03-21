@@ -63,9 +63,9 @@ will work on it in groups of three or four.
 
 | Item                  | Due Date              | Points  | % of Final Grade | 
 |-----------------------|-----------------------|---------|------------------|
-| Project Mini-Proposal | March 1               | 50      | 5%               |
-| Project Proposal      | March 29              | 100     | 10%              |
-| Final Paper Draft     | April 19              | 100     | 10%              |
+| Project Mini-Proposal | March 8               | 50      | 5%               |
+| Full Project Proposal | April 5               | 100     | 10%              |
+| Final Paper Draft     | April 26              | 100     | 10%              |
 | Final Paper           | May 12 (12:00 PM)     | 200     | 20%              |
 | In-Class Presentation | May 12 (8:00–9:50 AM) | 50      | 5%               |
 | **Total**             |                       | **500** | **50%**          |
@@ -93,10 +93,10 @@ Your total homework grade for the semester is calculated out of 300 points, subj
 |-----------------------------------------------|-------------|---------|------------------|
 | HW 0: Sign Up for Course Sites                | February 1  | 0       | 0%               |
 | HW 1: Intrinsic Evaluation of Word Embeddings | February 8  | 100     | 10%              |
-| HW 2: Text Classification Using LSTMs         | February 21 | 100     | 10%              |
-| HW 3: The 🤗 Transformers Framework           | March 8     | 100     | 10%              |
+| HW 2: Text Classification Using LSTMs         | February 27 | 100     | 10%              |
+| HW 3: The 🤗 Transformers Framework           | March 29     | 100     | 10%              |
 | EC 1: NumPy Exercises                         | February 8  | 25 EC   | 2.5% EC          |
-| EC 2: PyTorch Exercises                       | March 8     | 25 EC   | 2.5% EC          |
+| EC 2: PyTorch Exercises                       | February 27     | 25 EC   | 2.5% EC          |
 | **Total**                                     |             | **300** | **30%**          |
 
 ## Reading Quizzes
