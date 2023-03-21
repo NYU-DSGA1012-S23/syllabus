@@ -11,6 +11,10 @@ combine with one another to form complex expressions with complex meanings.
 Topics
 : Compositional semantics, natural language syntax, lambda calculus, predicate logic, logical form
 
+Lecture
+: [Slides](https://drive.google.com/file/d/1cEmYsBu-DOF5cI0-QpTpKZtzfZIS6bD5/view?usp=share_link),
+[Zoom Recording](https://nyu.zoom.us/rec/share/CoUPZNkPwNHO1IBh9NolnWeT9uI50YgPnXTgSdPhcrN3Fk0kTuNbKEDhpsTbfVeo.cPbqhu5PDXZp5H84)
+
 Readings
 : **LING1**{: .label .label-yellow } 
 [\#44–50](https://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020), on syntax
