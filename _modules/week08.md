@@ -20,5 +20,3 @@ Readings
 parsing
 : **SLP**{: .label .label-yellow } [Chapter 19](https://web.stanford.edu/~jurafsky/slp3/19.pdf), on logical form
 
-Deadlines
-: **HW 3 Due**{: .label .label-red }

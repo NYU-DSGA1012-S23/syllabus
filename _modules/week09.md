@@ -17,4 +17,4 @@ Readings
 : [Kollar et al. (2018)](https://aclanthology.org/N18-3022/), the Alexa Meaning Representation Language
 
 Deadlines
-: **Project Proposal Due**{: .label .label-blue }
+: **HW 3 Due**{: .label .label-red }

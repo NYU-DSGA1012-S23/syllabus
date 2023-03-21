@@ -16,3 +16,6 @@ Readings
 : [Blodgett et al. (2020)](https://aclanthology.org/2020.acl-main.485/), on how to talk about bias
 : [Mitchell et al. (2019)](https://dl.acm.org/doi/10.1145/3287560.3287596), on model cards
 : [Strubell et al. (2019)](https://aclanthology.org/P19-1355/), on the environmental impact of large-scale computation
+
+Deadlines
+: **Final Paper Draft Due**{: .label .label-blue }
