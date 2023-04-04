@@ -15,6 +15,10 @@ Lecture
 : [Slides](https://drive.google.com/file/d/1cEmYsBu-DOF5cI0-QpTpKZtzfZIS6bD5/view?usp=share_link),
 [Zoom Recording](https://nyu.zoom.us/rec/share/CoUPZNkPwNHO1IBh9NolnWeT9uI50YgPnXTgSdPhcrN3Fk0kTuNbKEDhpsTbfVeo.cPbqhu5PDXZp5H84)
 
+Lab
+: [Slides](https://campuswire.com/c/GB6E76357/feed/171),
+[Zoom Recording](https://nyu.zoom.us/rec/share/pa3Ha29GNK63q9hxhaVdRhnhAa1VJ0O571NQQG6hDg276DbQvTyTmrexOWOPVMNB.AI1V8KpzM7t6gRjW)
+
 Readings
 : **LING1**{: .label .label-yellow } 
 [\#44–50](https://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020), on syntax

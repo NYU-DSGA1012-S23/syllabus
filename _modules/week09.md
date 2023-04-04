@@ -11,6 +11,14 @@ into logical expressions, which are interpreted according to an _ontology_ that 
 Topics
 : Parsing, model-theoretic semantics, ontologies
 
+Lecture
+: [Slides](https://drive.google.com/file/d/1STxcnMPEFn7VZbQaUwVkzg4kcYMNTJK_/view?usp=sharing), No Zoom Recording 
+(Sorry!)
+
+Lab
+: [Slides](https://campuswire.com/c/GB6E76357/feed/171),
+[Zoom Recording](https://nyu.zoom.us/rec/share/oUeOZ8cLrkJTMX82VHhhAycWlQ9BfocMVOaufqaAA6KLbVp2wDvGbkQdw1jnQPE.vaSqDpEgyN7F3qbu)
+
 Readings
 : **SLP**{: .label .label-yellow }
 [Chapter 18](https://web.stanford.edu/~jurafsky/slp3/18.pdf), on dependency parsing
