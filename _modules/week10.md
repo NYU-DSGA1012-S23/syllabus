@@ -33,5 +33,5 @@ get to in class
 : [Bai et al. (2022)](https://arxiv.org/abs/2212.08073), the Constitutional AI paper from lab
 
 Deadlines
-: : **HW 3 Due (Extended) **{: .label .label-red }
- **Full Project Proposal Due 4/7 (Extended) **{: .label .label-blue }
+: **HW 3 Due (Extended)**{: .label .label-red }
+ **Full Project Proposal Due 4/7 (Extended)**{: .label .label-blue }
