@@ -23,5 +23,3 @@ Readings
 : **SLP**{: .label .label-yellow }
 [Chapter 18](https://web.stanford.edu/~jurafsky/slp3/18.pdf), on dependency parsing
 : [Kollar et al. (2018)](https://aclanthology.org/N18-3022/), the Alexa Meaning Representation Language
-
-Deadlines
