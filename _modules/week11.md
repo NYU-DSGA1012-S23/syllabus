@@ -19,3 +19,5 @@ Readings
 : [Vaswani et al. (2017)](https://arxiv.org/abs/1706.03762), _Attention Is All You Need_
 : [Yang et al. (2019)](https://arxiv.org/abs/1906.08237), _XLNet: Generalized Autoregressive Pretraining for 
 Language Understanding_
+: [Sam Bowman's slides](https://drive.google.com/file/d/1isX3V7KIlti4M81knYZrYmdFRjMpGJiF/view) from last year's 
+version of this course
