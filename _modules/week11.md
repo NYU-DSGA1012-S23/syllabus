@@ -13,6 +13,9 @@ Topics
 Lecture
 : [Slides](https://drive.google.com/file/d/1tYF6mZ3yfYI6WhKy6gIOHJAgEFJlHFDD/view?usp=share_link), [Zoom Recording](https://nyu.zoom.us/rec/share/hzI1inctb3rrAjomZwogcqOAx70D7JTBgLXlsYieUrn3yRgaVbMWQu206D2WBtvk.EcZrnFIHdydDobJn)
 
+Lab
+: [Slides](https://campuswire.com/c/GB6E76357/feed/219), [Zoom Recording](https://nyu.zoom.us/rec/share/Bag8KsEpJVoYEVsPekNNYYyXc41bYJSZgngcZ2s_DTL_LLU39dnBGPSd_YH5nt-o.OW51qHG0nDyNbxew)
+
 Readings
 : [EMNLP 2023 short paper requirements](https://2023.emnlp.org/calls/main_conference_papers/#short-papers)
 : [EMNLP 2023 paper templates](https://2023.emnlp.org/calls/style-and-formatting/)
