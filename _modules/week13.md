@@ -14,6 +14,11 @@ Topics
 : Energy consumption, documentation debt, dual use, trust, fairness, right to an explanation, intellectual property, 
 data statements, model cards
 
+Lecture
+: [Slides](https://drive.google.com/file/d/11Qkw_l91kFndioPFSu8Q890DeKQwBMqK/view?usp=share_link) (including some we 
+didn't get to), [Zoom 
+Recording](https://nyu.zoom.us/rec/share/W3mOdTPket96rtM_VsmWogwGhk8y6UEKZl3lNK2STCgG_fbQfG9LXAOgoRfUjIBE.MCQPTjUxGg9czxW_)
+
 Readings
 : [Bommasani et al. (2022)](https://arxiv.org/abs/2108.07258), Section 5, overview on ethical issues
 : [Bender et al. (2021)](https://dl.acm.org/doi/10.1145/3442188.3445922), the Stochastic Parrots paper
